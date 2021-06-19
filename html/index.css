@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.heading {
+  background-color: black;
+  color: blanchedalmond;
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  height: 70px;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-top: 20px;
+  margin-bottom: 30vh;
+}
+
+.heading h1 {
+  text-shadow: 0 1px 10px wheat;
+  letter-spacing: 5px;
+  word-spacing: 15px;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+#data {
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+  margin: 50px;
+  letter-spacing: 3px;
+  word-spacing: 10px;
+  text-shadow: 0 1px 5px white;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-shadow: 0 10px 50px black;
+          box-shadow: 0 10px 50px black;
+}
+/*# sourceMappingURL=index.css.map */
